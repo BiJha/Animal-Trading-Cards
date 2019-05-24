@@ -1,4 +1,4 @@
-/* add your CSS here */
+/* id box created for border, padding, width and background-color */
 #box{
     border: 1px solid black;
     padding: 15px;
@@ -7,6 +7,7 @@
 }
 
 
+/* id Dogpic created for width, height, border and margin of a Dog picture */
 #Dogpic{
     width: 300px;
     Height: 200px;
@@ -19,7 +20,7 @@
     border: 1px solid black;
 }
 
-
+/* Id fact created for background-color, margin and font-style */
 #fact{
     font-style: italic;
     margin-left: 10px;
@@ -27,22 +28,26 @@
 }
 
 
+/* class list created to remove bullet point from a list */
 .list{
     list-style: none;
 }
 
 
+/* class label created for font size and weight */
 .label{
     font-weight: bold;
     font-size: 15px;
     }
 
 
+/* class listfont created for font-size */
 .listfont{
     font-size: 11px;
 }
 
 
+/* id description created for margin and text-align */
 #description{
     margin-left: 10px;
     margin-right: 10px;
