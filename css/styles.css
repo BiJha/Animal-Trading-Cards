@@ -1,5 +1,5 @@
 /* add your CSS here */
-#box {
+#box{
     border: 1px solid black;
     padding: 15px;
     width: 300px;
@@ -7,7 +7,7 @@
 }
 
 
-#Dogpic {
+#Dogpic{
     width: 300px;
     Height: 200px;
     border: 1px solid black;
@@ -15,36 +15,37 @@
 }
 
 
-#boxwithinbox {
+#boxwithinbox{
     border: 1px solid black;
 }
 
 
-#fact {
+#fact{
     font-style: italic;
     margin-left: 10px;
     background-color: rgb(100%, 50%, 0%);
 }
 
 
-.list {
+.list{
     list-style: none;
 }
 
 
-.label {
+.label{
     font-weight: bold;
     font-size: 15px;
     }
 
 
-.listfont {
+.listfont{
     font-size: 11px;
 }
 
 
-#description {
+#description{
     margin-left: 10px;
     margin-right: 10px;
     text-align: justify;
 }
+
